@@ -1,3 +1,5 @@
 Name: Vidit Kochar
 Favourite programming language: Rust
 What i learned in this lesson: How to use git and push code to GitHub
+
+Usefull git command i learned git status 
